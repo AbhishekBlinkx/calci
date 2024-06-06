@@ -46,4 +46,13 @@ public class AddController {
         } 
 		return "calculate";
 	}
+	
+	public void TestForGithub() {
+		int a = 10;
+		int b = 5;
+		while(a>b) {
+			a--;
+		}
+		
+	}
 }
